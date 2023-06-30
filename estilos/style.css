@@ -131,4 +131,5 @@ form a.botao {
 
 form a.botao:hover {
     background-color: orange;
+    color: white;
 }
